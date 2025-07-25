@@ -1,6 +1,6 @@
 const fases = [
   {
-    pergunta: "Se você me ama, então você sorri ao lembrar de mim. Seoje você sorriu. O que podemos concluir?",
+    pergunta: "Se você me ama, então você sorri ao lembrar de mim. Se hoje você sorriu. O que podemos concluir?",
     opcoes: [
       "Você me ama",
       "Você não me ama",
